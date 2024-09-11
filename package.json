@@ -4,22 +4,23 @@
   "main": "index.js",
   "version": "0.0.1",
   "author": {
-    "name": "zhj3618",
-    "email": "zhj3618@gmail.com"
+    "name": "lucumt",
+    "email": "lucumt@gmail.com"
   },
   "keywords": [
     "gitbook",
     "gitbook-plugin",
     "footer",
-    "modification"
+    "modification",
+	"custom"
   ],
   "engines": {
     "gitbook": ">=2.4.3"
   },
-  "homepage": "https://github.com/zhj3618/gitbook-plugin-tbfed-pagefooter",
+  "homepage": "https://github.com/gitbook-plugin-fox/gitbook-plugin-pagefooter-fox",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhj3618/gitbook-plugin-tbfed-pagefooter.git"
+    "url": "https://github.com/gitbook-plugin-fox/gitbook-plugin-pagefooter-fox.git"
   },
   "repository": {
     "type": "git",
